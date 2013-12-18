@@ -1,3 +1,5 @@
 ebin/*.beam
+ebin/*.app
 priv/bin/serial
 c_src/*.o
+*~
